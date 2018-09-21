@@ -1,0 +1,2 @@
+# videoToDataset
+Simple script for get face dataset from video
